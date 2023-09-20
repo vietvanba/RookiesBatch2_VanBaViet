@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab9f612f-d0a7-41eb-b480-e7841a05f3ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RookieShop/src/test/java/com/example/rookieShop/service/CategoriesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/CategoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/ProductCommentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/ProductCommentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/Controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/dto/OrderDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/dto/OrderDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/dto/OrderDetailDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/dto/OrderDetailDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/exception/NotFoundEntityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/exception/NotFoundEntityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/OrderDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/OrderDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/ProductComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/ProductComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/ProductImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/ProductImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/security/service/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/RookieShop/src/main/java/com/example/rookieShop/security/service/UserDetailsImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ucWe0Q81RYgmWa56xfuTo9s6jY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/RookieShop" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab9f612f-d0a7-41eb-b480-e7841a05f3ab" name="Default Changelist" comment="" />
+      <created>1624965449001</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624965449001</updated>
+    </task>
+    <servers />
+  </component>
+</project>
